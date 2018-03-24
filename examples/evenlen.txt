@@ -1,0 +1,12 @@
+name: Even length
+init: qEven
+accept: qAccept
+
+qEven,1
+qOdd,1,>
+
+qOdd,1
+qEven,1,>
+
+qEven,_
+qAccept,_,-
